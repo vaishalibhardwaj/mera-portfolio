@@ -13,6 +13,7 @@ export const dialogueData = {
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
   resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1RdGnT-L5cnX5n9UjKQR1XaUIKXAYEE-2/view" target="_blank">Check it out?</a>
   Contact me at vaishalibhardwaj5490@gmail.com if you have any interesting job opportunities!`,
+  projects: `Info about this projects are available on my github : <a href="https://github.com/vaishalibhardwaj" target="_blank">Github</a>.`,
   library: `There are a lot of fiction books on my shelves. There is even one on programming.
   I probably only read one of them. Who else compulsively buys books without ever finishing them?`,
   exit: `If you want to exit vaishali's portfolio, just close the tab.`,
