@@ -11,7 +11,7 @@ export const dialogueData = {
    <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
   <a href="https://www.youtube.com/@NeetCode" target="_blank">NeetCode</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1RdGnT-L5cnX5n9UjKQR1XaUIKXAYEE-2/view" target="_blank">Check it out?</a>
+  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1HGXxFrGaItPT5USZxcbckCBGOtvMjf7c/view" target="_blank">Check it out?</a>
   Contact me at vaishalibhardwaj5490@gmail.com if you have any interesting job opportunities!`,
   projects: `Info about my projects are available on my github : <a href="https://github.com/vaishalibhardwaj" target="_blank">Github</a>.`,
   library: `There are a lot of fiction books on my shelves. There is even one on programming.
